@@ -12,20 +12,20 @@
 
 <!-- # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sebe2k04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebe2k04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebe2k04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=BalaGanesh30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BalaGanesh30&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaGanesh30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sebe2k04&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=BalaGanesh30&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=sebe2k04&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=BalaGanesh30&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 <!-- 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sebe2k04&label=Profile%20Views&color=2&icon=6&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=BalaGanesh30&label=Profile%20Views&color=2&icon=6&pretty=true" />
 </a> -->
